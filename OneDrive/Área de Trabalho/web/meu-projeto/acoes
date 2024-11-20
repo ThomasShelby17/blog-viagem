@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Investimentos e Ações</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #2b472b; /* Fundo claro */
+        }
+        header {
+            background: #008000; /* Verde */
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            margin: 20px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #008000; /* Verde */
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+            background: rgb(105, 189, 123);
+            margin: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #008000; /* Verde */
+            color: rgb(104, 185, 97);
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Investimentos e Ações</h1>
+    <nav>
+        <a href="#o-que-sao-acoes">O que são Ações?</a>
+        <a href="#importancia-investir">Importância de Investir</a>
+        <a href="#como-comecar">Como Começar</a>
+    </nav>
+</header>
+
+<section id="o-que-sao-acoes">
+    <h2>O que são Ações?</h2>
+    <p>
+        Ações são títulos que representam uma fração do capital social de uma empresa. Quando você compra ações de uma empresa, você se torna um acionista e, portanto, um dos proprietários da empresa. O valor das ações pode variar com base no desempenho da empresa e nas condições do mercado.
+    </p>
+</section>
+
+<section id="importancia-investir">
+    <h2>Importância de Investir</h2>
+    <p>
+        Investir é fundamental para a construção de patrimônio e para garantir uma aposentadoria confortável. Além disso, investir em ações pode proporcionar retornos significativos a longo prazo, superando a inflação e ajudando a alcançar objetivos financeiros.
+    </p>
+</section>
+
+<section id="como-comecar">
+    <h2>Como Começar</h2>
+    <p>
+        Para começar a investir em ações, você deve:
+    </p>
+    <ul>
+        <li>Educar-se sobre o mercado financeiro e ações.</li>
+        <li>Definir seus objetivos de investimento.</li>
+        <li>Escolher uma corretora de valores.</li>
+        <li>Começar com um valor que você pode perder, enquanto aprende.</li>
+        <li>Diversificar seus investimentos para minimizar riscos.</li>
+    </ul>
+</section>
+
+<footer>
+    <p>&copy; 2023 Investimentos e Ações. Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
